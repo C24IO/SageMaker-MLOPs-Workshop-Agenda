@@ -30,6 +30,8 @@
 * #### Data Labeling
     * GroundTruth Lab - Images 
     * GroundTruth Lab - Videos
+* #### Model Formats
+    * ONNX [MXNet](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/mxnet_onnx_export)    
 
 
 ## Sources:
