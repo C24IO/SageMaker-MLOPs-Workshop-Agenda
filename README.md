@@ -42,4 +42,5 @@
 * https://github.com/data-science-on-aws/workshop
 * https://github.com/kubeflow/pipelines/tree/master/components/aws/sagemaker
 * https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/
+* https://aws.amazon.com/blogs/opensource/deploy-machine-learning-models-to-amazon-sagemaker-using-the-ezsmdeploy-python-package-and-a-few-lines-of-code/
 
