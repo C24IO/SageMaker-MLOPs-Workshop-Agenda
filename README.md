@@ -26,7 +26,7 @@
 * #### SageMaker with Kubernetes
     * SageMaker + Kubernetes Overview
     * SageMaker Operators for Kubernetes
-    * KubeFlow pipelines with SageMaker     
+    * KubeFlow pipelines with SageMaker [Notebooks](https://github.com/kubeflow/pipelines/tree/master/components/aws/sagemaker)
 * #### Data Labeling
     * GroundTruth Lab - Images 
     * GroundTruth Lab - Videos
