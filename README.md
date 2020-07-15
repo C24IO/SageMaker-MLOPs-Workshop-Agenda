@@ -10,7 +10,7 @@ Agenda for SageMaker Migrations Workshop
         * Debugging 
         * Spot Training
     * Tensorflow Estimator Notebook
-        * Distributed Training [Workshop Notebook](https://github.com/vdabravolski/detectron2-sagemaker)
+        * Distributed Training [MXNet](https://github.com/vdabravolski/detectron2-sagemaker) [Pytorch](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/pytorch_horovod_mnist)
         * Bring your own container
 * Hosting
     * Deploy model as an endpoint
