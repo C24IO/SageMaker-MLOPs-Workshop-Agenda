@@ -1,12 +1,8 @@
 # MLOPs with SageMaker Workshops
 
 
-Agenda for MLOPs with SageMaker Workshops
+Agenda for SageMaker Migrations Workshop
 
-
-* Data Labeling
-    * GroundTruth Lab - Images <<link needed>>
-    * GroundTruth Lab - Videos <<link needed>>
 * Training
     * Experiments management 
     * SageMaker script mode
@@ -32,7 +28,9 @@ Agenda for MLOPs with SageMaker Workshops
     * SageMaker + Kubernetes Overview
     * SageMaker Operators for Kubernetes
     * KubeFlow pipelines with SageMaker     
-
+* Data Labeling
+    * GroundTruth Lab - Images <<link needed>>
+    * GroundTruth Lab - Videos <<link needed>>
 
 
 Sources:
@@ -41,4 +39,6 @@ Sources:
 * https://github.com/aws-samples/mlops-amazon-sagemaker-devops-with-ml
 * By Shreyas Subramanian - https://master.d11arstd4fhlv6.amplifyapp.com/ & https://www.shreyasdemos.ml/
 * https://github.com/data-science-on-aws/workshop
+* https://github.com/kubeflow/pipelines/tree/master/components/aws/sagemaker
+* https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/
 
