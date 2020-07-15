@@ -29,8 +29,8 @@ Agenda for SageMaker Migrations Workshop
     * SageMaker Operators for Kubernetes
     * KubeFlow pipelines with SageMaker     
 * Data Labeling
-    * GroundTruth Lab - Images <<link needed>>
-    * GroundTruth Lab - Videos <<link needed>>
+    * GroundTruth Lab - Images 
+    * GroundTruth Lab - Videos
 
 
 Sources:
