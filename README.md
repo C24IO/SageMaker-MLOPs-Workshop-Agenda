@@ -18,7 +18,7 @@
         * Bring your own model 
         * Perform predictions
         * Auto-Scaling [MXNet](https://github.com/C24IO/SageMaker-CustomMXNet-Autoscaling)
-        * A/B testing 
+        * A/B testing [MXNet](https://github.com/C24IO/SageMaker-Inference/tree/master/endpoints/load-ab-testing)
         * Multi-model endpoints
     * Deploy tensorflow model as TF Serving
     * MLOPs best practices overview
