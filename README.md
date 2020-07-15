@@ -8,7 +8,7 @@
     * Model Hyperparameter Tuning
     * RESNET Notebook
         * Debugging 
-        * Spot Training [MXNet](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/managed_spot_training_mxnet)
+        * Spot Training [MXNet](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/managed_spot_training_mxnet) [TensorFlow](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/managed_spot_training_tensorflow_estimator)
     * Tensorflow Estimator Notebook
         * Distributed Training [MXNet](https://github.com/vdabravolski/detectron2-sagemaker) [Pytorch](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/pytorch_horovod_mnist)
         * Bring your own container
