@@ -1,8 +1,8 @@
 # SageMaker Migrations Workshop
 
-Agenda for SageMaker Migrations Workshop
+### Agenda for SageMaker Migrations Workshop
 
-* Training
+* #### Training
     * Experiments management 
     * SageMaker script mode
     * Model Hyperparameter Tuning
@@ -12,7 +12,7 @@ Agenda for SageMaker Migrations Workshop
     * Tensorflow Estimator Notebook
         * Distributed Training [MXNet](https://github.com/vdabravolski/detectron2-sagemaker) [Pytorch](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/pytorch_horovod_mnist)
         * Bring your own container
-* Hosting
+* #### Hosting
     * Deploy model as an endpoint
         * SageMaker trained model 
         * Bring your own model 
@@ -23,11 +23,11 @@ Agenda for SageMaker Migrations Workshop
     * Deploy tensorflow model as TF Serving
     * MLOPs best practices overview
         * Deployment across regions using SageMaker 
-* SageMaker with Kubernetes
+* #### SageMaker with Kubernetes
     * SageMaker + Kubernetes Overview
     * SageMaker Operators for Kubernetes
     * KubeFlow pipelines with SageMaker     
-* Data Labeling
+* #### Data Labeling
     * GroundTruth Lab - Images 
     * GroundTruth Lab - Videos
 
