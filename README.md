@@ -1,5 +1,4 @@
-# MLOPs with SageMaker Workshops
-
+# SageMaker Migrations Workshop
 
 Agenda for SageMaker Migrations Workshop
 
