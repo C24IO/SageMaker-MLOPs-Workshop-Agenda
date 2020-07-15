@@ -32,7 +32,7 @@ Agenda for SageMaker Migrations Workshop
     * GroundTruth Lab - Videos
 
 
-Sources:
+## Sources:
 
 * https://github.com/markproy/sagemaker-workshop
 * https://github.com/aws-samples/mlops-amazon-sagemaker-devops-with-ml
